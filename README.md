@@ -1,14 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.svg">
-  <img alt="Hi, I'm sean. Exploring how robots perceive, predict and act." src="assets/intro-light.svg" width="100%">
-</picture>
+软件工程硕士在读，最近在做机器人导航和世界模型相关的项目。
 
-软件工程硕士在读，关注世界模型、规划与机器人学习。  
-分享项目实现、实验分析，以及阅读过程中整理的技术资料。
+主要用 Python、PyTorch 做模型实验，用 ROS 2 和 Gazebo 做导航仿真。
 
-**Focus** &nbsp; World models &nbsp; / &nbsp; Planning &nbsp; / &nbsp; Robot learning
-
----
-
-<sub>Python &nbsp; / &nbsp; PyTorch &nbsp; / &nbsp; ROS 2 &nbsp; / &nbsp; NumPy</sub>
+这里放项目代码，也整理一些论文笔记和具身智能的基础知识。
